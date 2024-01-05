@@ -1,26 +1,42 @@
 # Madhav_Store_Ecommerce_Dashboard
-📊 Here is my 1st Power Bi project, that I have created using Power BI desktop  📈
-I have completed the project on creating powerful Report using Power Bi for analyzing Ecommerce sales data. 🌐 📚
 
-📊 Objective : To assist the owner of Madhav Store in tracking and analyzing their ecommerce sales across India. I design an interactive report for deeper insight.
-🗃 Project Learning :
-✔ Create a dynamic report to track and analyse real-time online sales data.
-✔ Used sophisticated parameters to drill down in the worksheet and customised it with a filter and slicer.
-✔ To manipulate data, I created connections, joined new tables, and did calculations.
-✔ Used different type of customized visualization like bar chart, pie chart, donut chart, clustered bar chart, cards and slicers.
-✔ Empowered user with data driven parameter for visualization and deeper insight to make informed decisions that drive business growth.
+### Overview:
+My inaugural Power BI project involves creating a comprehensive report for Madhav Store, an ecommerce business in India, to track and analyze sales data. This interactive report aims to empower the owner with deeper insights into their online sales across the country.
 
-👩‍💻 Task performed :
-1. Transformed data using power query.
-2. Used DAX Queries for calculating APQ (Amount per quantity).
-3. Used different type of customized visualization like bar chart, pie chart, donut chart, clustered bar chart, cards and slicers.
-4. Added slicer to check Quarterly and State wise data in one go.
+**Project Objectives:**
 
-🔰 Useful insights :-
-🏹 Maximum sales are driven through COD payment mode , hence we should try to have COD option available for all projects.
-🏹 Clothing dominated the product categories with highest Sum of Quantity, whereas furniture has lowest sales .
-🏹 #Maharashtra led with the highest Sum of Amount, contributing 40.79% to total. other top states were #Madhyapradesh, #Uttarpradesh and #Delhi.
-🏹 We have performed very well in quarter 1.
-🏹 Harivansh emerged as top buyer, accounting for 29.67% of sales. Madhav , Madan Mohan and Shiva closely followed. these top customers who have made maximum purchase can be rewarded with some gift vouchers for being loyal customers.
+Design an interactive report for real-time tracking and analysis of ecommerce sales data.
+Implement sophisticated parameters for detailed drill-down capabilities, customized with filters and slicers.
+Manipulate data by creating connections, joining new tables, and performing calculations.
+Utilize various customized visualizations such as bar charts, pie charts, donut charts, clustered bar charts, cards, and slicers.
+Implement data-driven parameters for enhanced visualization and deeper insights, facilitating informed decision-making for business growth.
+
+**Tasks Performed:**
+
+Transformed data using Power Query for optimal analysis.
+Utilized DAX Queries for calculating APQ (Amount per quantity).
+Employed a variety of visualizations to present data effectively.
+Added slicer functionality to enable easy checking of Quarterly and State-wise data.
+
+**Useful Insights:**
+
+1) Payment Mode Impact: Maximum sales are driven through Cash on Delivery (COD) payment mode, suggesting the importance of offering COD as an option for all products.
+2) Product Category Trends: Clothing dominates product categories with the highest sum of quantity, while furniture records the lowest sales.
+3) Geographical Impact: Maharashtra leads in the highest sum of amount, contributing 40.79% to the total. Other top states include Madhya Pradesh, Uttar Pradesh, and Delhi.
+4) Quarterly Performance: Exceptional performance observed in Quarter 1.
+5) Top Buyer Recognition: Harivansh emerges as the top buyer, accounting for 29.67% of sales. Recognizing and rewarding top customers like Madhav, Madan Mohan, and Shiva with gift vouchers can foster loyalty.
+
+**Key Learnings:**
+
+1. Developing a dynamic report with real-time tracking capabilities.
+2. Using advanced parameters, filters, and slicers for detailed analysis.
+3. Transforming data with Power Query and implementing DAX Queries.
+4. Creating diverse visualizations for effective data representation.
+
+**Conclusion:**
+
+This Power BI project not only serves as a valuable tool for Madhav Store but also demonstrates my proficiency in utilizing Power BI for in-depth data analysis and visualization in the ecommerce domain.
+
+
 
 
